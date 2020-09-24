@@ -1,2 +1,4 @@
 test master
 test develop
+test frontend1
+test frontend2
